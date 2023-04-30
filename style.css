@@ -5,19 +5,18 @@ a{
     background-color: rgb(178, 236, 217);
 }
 #mirto{
-    height: auto;
 
-    max-width: 25.53%;
-    
-}
-#conteudo{
-    display: table;
-}
-
-#texto{
-   
-    float: left;
+    max-width: 50.53%;
     width: 300px;
-    margin-top: 20px;
-    margin-left: 30px;
+
+    margin-right: 20px;
+    float:left;
 }
+.cabeça{
+    margin-top: 240px;
+    margin-right: 50%;
+    margin-left: 20px;
+}
+
+
+
